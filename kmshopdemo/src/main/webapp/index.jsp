@@ -2,6 +2,7 @@
 <html>
 <body>
 <h2>Hello World!</h2>
+<button ></button>
 <form action="login">
 	<input type="submit" value="提交">
 </form>
