@@ -6,6 +6,7 @@ public class UserLoginController {
 
 	@RequestMapping("/login")
 	public String login() {
+		System.out.println("aaaaa");
 		return "login";
 	}
 	@RequestMapping("/index")
