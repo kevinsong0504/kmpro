@@ -1,0 +1,53 @@
+body{
+		background: #CFCFCF;
+	}
+	#header{
+		display: block;
+		background: #000;
+		height: 41px;
+		color: white;
+	}
+	#menu{
+		float: right;
+	}
+	li{
+
+		margin: 10px;
+	}
+	li{
+		list-style-type:none; 
+		float: left;
+	}
+	ul  {
+		float: left;
+		margin: 0;	
+	}
+	#shop{
+		float: left;
+		margin: 10px;
+	}
+	.product{
+		height: 300px;
+		background-repeat: no-repeat;
+		background-size: 900px 300px;
+		margin: 0 auto;
+		background-position: center;
+		text-align: center;
+		color: red;
+
+	}
+	#capp{
+		background-image: url('capp.jpg');
+		margin: 10px;
+	}
+	#pdm{
+		background-image: url('pdm.jpg');
+		margin: 10px;
+	}
+	#enorm{
+		background-image: url('enorm.jpg');
+		margin: 10px;
+	}
+	#mainer{
+		margin-top: 10px;
+	}
